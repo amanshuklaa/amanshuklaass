@@ -990,7 +990,7 @@ body.topmenu .arlo_tm_rightpart{padding-left: 0px;}
 	height:8px;
 }
 .cardheight1{
-	height: 354px;
+	height: 354px!important;
 }
 .progress_inner .background .bar_in{
 	height:100%;
