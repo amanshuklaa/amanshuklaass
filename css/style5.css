@@ -571,6 +571,7 @@ body.topmenu .arlo_tm_rightpart{padding-left: 0px;}
     display: inline-block;
     margin-bottom: 43px;
 	position: relative;
+	rotate:90;
 }
 .arlo_tm_hero_header .hero_content .image_wrap img{border-radius: 100%; }
 .arlo_tm_hero_header .hero_content .image_wrap .main{
