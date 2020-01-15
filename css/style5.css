@@ -989,6 +989,9 @@ body.topmenu .arlo_tm_rightpart{padding-left: 0px;}
 	position:relative;
 	height:8px;
 }
+.cardheight1{
+	height: 354px;
+}
 .progress_inner .background .bar_in{
 	height:100%;
 	background:#333;
