@@ -5291,3 +5291,4 @@ body.third h3{
 	.arlo_tm_second_homepage .hero_wrap .hero_texts .subtitle{font-size: 21px;}
 	.arlo_tm_services_third .service_inner ul li .inner .details{padding-left: 0px;padding-top: 60px;}
 }	
+@media (max-width: 1040px) { .arlo_tm_menu_fifth{display: none;} } 
