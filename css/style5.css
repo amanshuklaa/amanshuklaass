@@ -5299,12 +5299,3 @@ body.third h3{
  .cardforskills{
 	border-radius: 8px;
  }
- .devicon-git-plain {
-	max-width: 300px;
-	max-height: 300px;
-  }
-  
-  /* if you want to change the original color */
-  .devicon-git-plain path {
-	fill: #4691f6;
-  }
