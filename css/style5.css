@@ -5300,8 +5300,8 @@ body.third h3{
 	border-radius: 8px;
  }
  .devicon-git-plain {
-	max-width: 2em;
-	max-height: 3em;
+	max-width: 300px;
+	max-height: 300px;
   }
   
   /* if you want to change the original color */
